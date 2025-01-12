@@ -3,4 +3,13 @@ pandas
 seaborn
 matplotlib
 ipykernel
+PyYAML
+setuptools
+mplcyberpunk
+scikit-learn
+tensorflow
+xgboost
+catboost
+tensorflow
+dvc
 -e .
