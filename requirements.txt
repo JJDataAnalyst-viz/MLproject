@@ -11,6 +11,7 @@ tensorflow
 xgboost
 catboost
 tensorflow
+lightgbm
 dvc
 dvc-s3
 -e .
