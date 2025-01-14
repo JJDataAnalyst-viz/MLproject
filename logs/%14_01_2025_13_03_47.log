@@ -1,8 +1,0 @@
-[2025-01-14 13:03:55,725] --23--  root - INFO - Starting ingestion part.....
-[2025-01-14 13:03:55,726] --27--  root - INFO - Upload yaml file
-[2025-01-14 13:03:55,733] --30--  root - INFO - Create a dataframe
-[2025-01-14 13:03:55,734] --33--  root - INFO - Creating an artifacts folder
-[2025-01-14 13:03:55,745] --36--  root - INFO - Loading raw dataset info artifacts folder
-[2025-01-14 13:03:55,747] --40--  root - INFO - Train_test split of dataframe
-[2025-01-14 13:03:55,752] --44--  root - INFO - train data send to artifacts path
-[2025-01-14 13:03:55,755] --47--  root - INFO - test data send to artifacts path
